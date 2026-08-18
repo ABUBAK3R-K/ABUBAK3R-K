@@ -1,6 +1,6 @@
 # Hey, I'm Abubaker 👋
 
-### AI Engineer in progress · Builder · Occasional bug creator
+### AI Engineer in progress · Builder 
 
 I build things around **AI, machine learning, and software engineering** — usually starting with *"this would be cool"* and ending somewhere between a working prototype and 47 open browser tabs.
 
