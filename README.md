@@ -10,6 +10,7 @@ Currently exploring **Machine Learning, LLM applications, AI agents, RAG, and pr
 
 ### 🧠 Interests
 
+* Her 🎀
 * Artificial Intelligence & Machine Learning
 * LLMs, RAG & AI Agents
 * Production ML & System Design
