@@ -1,6 +1,6 @@
 # Hey, I'm Abubaker 👋
 
-**B.Tech CSE (AI/ML) student** who enjoys turning ideas into things that actually work.
+**B.E CSE (AI/ML) student** who enjoys turning ideas into things that actually work.
 
 I'm interested in the space where **AI, software engineering, and real-world problems** meet. I learn mostly by building, experimenting, breaking things, and figuring out why they broke.
 
