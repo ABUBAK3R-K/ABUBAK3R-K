@@ -1,55 +1,77 @@
-# Hey, I'm Abubaker 👋
+<div align="center">
 
-**B.E CSE (AI/ML) student** who enjoys turning ideas into things that actually work.
+# Abubaker
 
-I'm interested in the space where **AI, software engineering, and real-world problems** meet. I learn mostly by building, experimenting, breaking things, and figuring out why they broke.
+### AI/ML Engineer in the making · Graph Neural Networks · Recommender Systems
 
-Currently exploring **Machine Learning, LLM applications, AI agents, RAG, and production-oriented ML systems**.
+<a href="https://abubak3r.vercel.app">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=8B9DFF&center=true&vCenter=true&width=620&lines=Building+recommendation+systems+that+think+in+graphs;ML+lead+%C2%B7+Full-stack+when+it+counts;Turning+research+into+shipped+products" alt="Typing SVG" />
+</a>
 
----
+<br/>
 
-### 🧠 Interests
+[![Portfolio](https://img.shields.io/badge/Portfolio-abubak3r.vercel.app-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://abubak3r.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-HANDLE)
+[![Email](https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+[![Resume](https://img.shields.io/badge/Resume-Download-2E7D32?style=for-the-badge&logo=readthedocs&logoColor=white)](YOUR-RESUME-LINK)
 
-* Artificial Intelligence & Machine Learning
-* LLMs, RAG & AI Agents
-* Production ML & System Design
-* Backend & API development
-* Experimentation + practical engineering
-
-### 🛠️ Tech Stack
-
-**Languages & Frameworks**
-
-`Python` · `JavaScript` · `TypeScript` · `React` · `Next.js` · `FastAPI` · `Flask`
-
-**Data & ML**
-
-`PyTorch` · `PyTorch Geometric` · `OpenCV` · `PostgreSQL`
-
-**Tools & Platforms**
-
-`Git` · `GitHub` · `Docker` · `Hugging Face` · `Postman` · `Vercel`
+</div>
 
 ---
 
-### ⚽ Outside the Code
+## About
 
-Football on weekends · F1 · random side projects · discovering good music
+I'm a final-year Computer Science (AI/ML) engineering student in India, focused on **graph-based recommendation systems**. I like projects where a model has to hold up outside a notebook, so I pair the ML with a real backend, a real interface, and real data.
 
-Currently reading **Hands-On Machine Learning** and spending far too much time in **Hugging Face documentation**.
-
----
-
-### 🌐 Find me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-abubak3r.vercel.app-111111?style=flat-square\&logo=vercel\&logoColor=white)](https://abubak3r.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-ABUBAK3R--K-111111?style=flat-square\&logo=github\&logoColor=white)](https://github.com/ABUBAK3R-K)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abubaker%20Kadli-111111?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/abubaker-kadli-4939a72b9/)
-[![Instagram](https://img.shields.io/badge/Instagram-abubaker._.k-111111?style=flat-square\&logo=instagram\&logoColor=white)](https://www.instagram.com/abubaker._.k/)
-[![X](https://img.shields.io/badge/X-@abubak3r__k-111111?style=flat-square\&logo=x\&logoColor=white)](https://x.com/abubak3r_k)
+- Interned on a **recommendation engine** (collaborative filtering pipeline) at an e-commerce platform
+- Served as **ML lead** on team projects, from model design to deployment
+- Currently going deep on **GNNs** for recommendation, fraud detection, and geospatial problems
+- Regular at hackathons, usually shipping with the same crew
 
 ---
 
-> *building things, breaking them, and pretending it was part of the plan.*
+## Tech Stack
 
-<sub>Built with curiosity & caffeine ☕</sub>
+<div align="center">
+
+![Python](https://skillicons.dev/icons?i=python,pytorch,fastapi,postgres,docker,git&theme=dark)
+
+![Frontend](https://skillicons.dev/icons?i=react,ts,js,tailwind,vite,flutter,dart&theme=dark)
+
+</div>
+
+| Area | Tools |
+| :-- | :-- |
+| **ML / DL** | PyTorch, scikit-learn, XGBoost, Graph Neural Networks, LSTM/GRU |
+| **Recommender Systems** | Collaborative filtering, sequence models, GNN-based recommenders |
+| **Backend** | FastAPI, PostgreSQL / PostGIS, Supabase |
+| **Frontend / Mobile** | React, TypeScript, Tailwind, Framer Motion, Flutter |
+| **Tooling** | Docker, Git, Parquet, DuckDB |
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ABUBAK3R-K&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABUBAK3R-K&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top languages" />
+
+</div>
+
+---
+
+## Currently
+
+- Studying graph learning for recommendation and risk
+- Open to **AI/ML engineering** internships and full-time roles
+
+---
+
+<div align="center">
+
+**Have a graph, a recommender, or a hard dataset? Let's talk.**
+
+[Portfolio](https://abubak3r.vercel.app) · [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE) · [Email](mailto:YOUR-EMAIL)
+
+</div>
