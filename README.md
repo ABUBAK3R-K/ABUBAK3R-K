@@ -11,9 +11,8 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-abubak3r.vercel.app-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://abubak3r.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-HANDLE)
-[![Email](https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
-[![Resume](https://img.shields.io/badge/Resume-Download-2E7D32?style=for-the-badge&logo=readthedocs&logoColor=white)](YOUR-RESUME-LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abubaker-kadli-4939a72b9/)
+[![Email](https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abubakerkadli82@gmail.com)
 
 </div>
 
