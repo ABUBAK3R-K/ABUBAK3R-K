@@ -51,19 +51,6 @@ Final-year Computer Science (AI/ML) engineering student in India, focused on **g
 
 <br/>
 
-## ✦ GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ABUBAK3R-K&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABUBAK3R-K&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" alt="Top languages" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ABUBAK3R-K&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution graph" />
-
-</div>
-
-<br/>
-
 ## ✦ Currently
 
 - 📚 Going deeper into graph learning for recommendation and risk
